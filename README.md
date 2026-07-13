@@ -13,4 +13,6 @@
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=srikar-naidu&theme=merko&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-![snake gif](https://github.com/srikar-naidu/srikar-naidu/blob/output/github-contribution-grid-snake.svg)
+
+## watch this snake eat my contributions :( 
+![snake gif](https://github.com/srikar-naidu/srikar-naidu/blob/output/github-snake-dark.svg)
