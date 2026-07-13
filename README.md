@@ -1,5 +1,5 @@
 # 💫 About Me:
-🚀 I'm currently working on AI-powered web applications, and full-stack projects using React, Python, Node.js & Express.<br>👯 I'm looking to collaborate on Open Source, AI/ML projects, Web Development, and Hackathon teams.<br>🤝 I'm looking for help with System Design, DevOps, Cloud Deployment, and Machine Learning.<br>🌱 I'm currently learning Next.js, Django, TensorFlow, AWS Cloud, Python libraries and Advanced DSA.<br>⚡ Fun fact: I love turning crazy hackathon ideas into working projects and have won multiple competitions.
+👋 Hi, I'm P. Srikar Naidu, a Computer Science student passionate about building impactful software and exploring AI-driven solutions. I enjoy developing full-stack web applications, participating in hackathons, and solving real-world problems through technology. From modern React applications to intelligent AI-powered tools, I'm always learning, experimenting, and creating projects that enhance my skills while making a meaningful difference.
 
 
 ## 🌐 Socials:
