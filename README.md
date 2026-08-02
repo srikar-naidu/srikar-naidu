@@ -1,11 +1,32 @@
 <div align="center">
 
-<!-- Animated typing header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:20232a,100:2f855a&height=200&section=header&text=Hi%20There,%20I'm%20Srikar%20%F0%9F%91%8B&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35" width="100%"/>
+<!-- Meme/GIF banner -->
+<img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" width="100%"/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=800&color=2ECC71&center=true&vCenter=true&width=600&lines=Computer+Science+Student;Full-Stack+Web+Developer;AI%2FML+Explorer;Hackathon+Enthusiast" alt="Typing SVG" />
 
 </div>
+
+<br/>
+
+## 💻 Terminal
+
+```bash
+srikar@dev:~$ whoami
+> P. Srikar Naidu — Computer Science Student
+
+srikar@dev:~$ cat about.txt
+> Passionate about building impactful software & exploring AI-driven solutions.
+> Loves full-stack apps, hackathons, and solving real-world problems with code.
+
+srikar@dev:~$ ls current_focus/
+React.js   Node.js   AI-Tools   Hackathon-Projects
+
+srikar@dev:~$ ./deploy.sh --project latest
+> Building...
+> Tests passed ✔
+> Status: Shipped 🚀
+```
 
 <br/>
 
@@ -24,7 +45,6 @@ I'm **P. Srikar Naidu**, a Computer Science student passionate about building im
 [![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nsrikar24@gmail.com)
 
 </div>
-
 
 <br/>
 
@@ -88,6 +108,16 @@ I'm **P. Srikar Naidu**, a Computer Science student passionate about building im
 
 <br/>
 
+## 🏆 Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=srikar-naidu&theme=algolia&no-frame=true&row=1&column=7" />
+
+</div>
+
+<br/>
+
 ## 📊 GitHub Stats
 
 <div align="center">
@@ -96,6 +126,34 @@ I'm **P. Srikar Naidu**, a Computer Science student passionate about building im
 <img height="165" src="https://github-readme-stats.shion.dev/api/top-langs/?username=srikar-naidu&theme=merko&hide_border=false&layout=compact" />
 
 <img src="https://streak-stats.demolab.com/?user=srikar-naidu&theme=merko&hide_border=false" />
+
+</div>
+
+<br/>
+
+## ⏱️ Weekly Coding Activity (WakaTime)
+
+<div align="center">
+
+<!--START_SECTION:waka-->
+```text
+Set this up in ~5 min: connect your WakaTime account, then add
+anmol098/waka-readme-stats as a GitHub Action on this repo.
+It'll auto-generate and commit a weekly breakdown right here.
+```
+<!--END_SECTION:waka-->
+
+</div>
+
+> To activate: create a free [WakaTime](https://wakatime.com) account → add the `WAKATIME_API_KEY` secret to this repo → set up the [waka-readme-stats](https://github.com/anmol098/waka-readme-stats) Action. It updates this block automatically every day.
+
+<br/>
+
+## 🎧 Currently Vibing To (not music — dev humor only)
+
+<div align="center">
+
+![Dev Joke](https://readme-jokes.vercel.app/api)
 
 </div>
 
@@ -116,5 +174,7 @@ I'm **P. Srikar Naidu**, a Computer Science student passionate about building im
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2f855a,100:20232a&height=100&section=footer"/>
 
 **Thanks for stopping by — let's build something great together!**
+
+![Profile Views](https://komarev.com/ghpvc/?username=srikar-naidu&color=2ecc71&style=flat-square&label=Profile+Views)
 
 </div>
