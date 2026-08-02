@@ -20,7 +20,7 @@ I'm **P. Srikar Naidu**, a Computer Science student passionate about building im
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/p-srikar-naidu)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/p-srikar-naidu-759b0937b/)
 [![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nsrikar24@gmail.com)
 
 </div>
@@ -28,7 +28,7 @@ I'm **P. Srikar Naidu**, a Computer Science student passionate about building im
 
 <br/>
 
-## 🛠️ Tech Stack
+## 🛠️ Tech Stack (which i used atleast once in my projects)
 
 **Languages**
 
