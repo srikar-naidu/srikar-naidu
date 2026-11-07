@@ -101,7 +101,7 @@ I'm **P. Srikar Naidu**, a Computer Science student passionate about building im
 
 <br/>
 
-## watch this snake eating my contributions :(
+## watch this snake eat my contributions :(
 
 <div align="center">
 
